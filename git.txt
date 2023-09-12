@@ -1,0 +1,19 @@
+git basic commands
+
+git init: Initializes a new Git repository in the current directory.
+
+git clone <repository_url>: Creates a copy of a remote repository on your local machine.
+
+git status: Shows the status of your working directory, including modified, untracked, and staged files.
+
+git add <file(s)>: Stages changes for commit. You can specify specific files or use a dot (.) to add all changes.
+
+git commit -m "Commit message": Commits the staged changes with a descriptive message.
+
+git pull: Fetches changes from a remote repository and merges them into your current branch.
+
+git push: Pushes your local commits to a remote repository.
+
+git merge <branch_name>: Merges the changes from the specified branch into the current branch.
+
+git log: Displays a log of all commits, showing commit hashes, authors, dates, and commit messages.
